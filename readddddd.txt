@@ -1,0 +1,2 @@
+open cmd in same directory
+python App.py
